@@ -24,7 +24,7 @@ Create KITTI folder under the root working directory, and put the KITTI data ins
 
 ## Generating disparity map
 ```
-$ python /home/hyao/Documents/pseudo_lidar/psmnet/submission.py  --loadmodel ./psmnet/kitti_3d/finetune_300.tar    --datapath ./KITTI/object/training/    --save_path ./KITTI/object/training/predict_disparity
+$ python ./pseudo_lidar/psmnet/submission.py  --loadmodel ./psmnet/kitti_3d/finetune_300.tar    --datapath ./KITTI/object/training/    --save_path ./KITTI/object/training/predict_disparity
 ```
 
 ## Generating disparity map
