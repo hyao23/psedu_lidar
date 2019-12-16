@@ -4,7 +4,6 @@
 
 ![Figure](qualitative_results.png)
 
-
 ## Set up the environment
 
 | package | version |
@@ -39,4 +38,5 @@ $ python SAIC/pyutility/show_utility.py  --pc=./KITTI/object/training/pseudo-lid
 ```
 
 ## Potential directions to improve the disparity generation speed and accuracy:
-check out the [paper](https://arxiv.org/abs/1810.05424) and [code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo) for Real-Time Self-Adaptive Deep Stereo
+Check out the [paper](https://arxiv.org/abs/1810.05424) and [code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo) for Real-Time Self-Adaptive Deep Stereo.
+An discussion on the limitations and potentials of this idea can be found in the pptx file in this repo.
