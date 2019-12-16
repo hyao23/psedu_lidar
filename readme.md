@@ -1,3 +1,10 @@
+# Testing generating pseudo lidar point clouds from stereo cameras. Based on [Yan Wang et. al.'s implementation](https://github.com/mileyan/pseudo_lidar)
+
+## visualization of the results
+
+![Figure](qualitative_results.png)
+
+
 ## Set up the environment
 
 | package | version |
